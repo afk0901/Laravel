@@ -17,5 +17,8 @@ Hvað var gert?
 
 Það voru skoðuð fyrstu sjö myndböndin á https://laracasts.com/series/laravel-from-scratch-2017/
 
-Fylgt var eftir þessum myndböndum en mest af þeim var horft á tvisvar, einusinni til að skilja bara hvað væri í gangi og svo aftur til að prófa sjálfur. Í þessum myndböndum var farið í Laravel frameworkið og var þar sýnt hvernig Laravel virkar í hnotskurn. Laravel, eins og önnur framework notar MVC hönnunarmynstrið, s.s. Model, View og Controller. Það var farið  að búa til view s.s. það sem við sjáum (basicly Halló Heimur) og svo var farið nokkuð flottann fídus að það er hægt að stytta <?php ?> í bara @ og kóðinn verður mun snrtylegri þannig því þá sést afar vel hvar t.d. if eða for lúppa endar. Svoa var farið í að nota mysql databasinn s.s. búa til töflur í grunninn og birta gögnin á vefsíðunni.
+Fylgt var eftir þessum myndböndum en mest af þeim var horft á tvisvar, einusinni til að skilja bara hvað væri í gangi og svo aftur til að prófa sjálfur. Í þessum myndböndum var farið í Laravel frameworkið og var þar sýnt hvernig Laravel virkar í hnotskurn. Laravel, eins og önnur framework notar MVC hönnunarmynstrið, s.s. Model, View og Controller. 
+
+Það var farið  að búa til view s.s. það sem við sjáum (basicly Halló Heimur) og svo var farið nokkuð flottann fídus að það er hægt að stytta <?php ?> í bara @ og kóðinn verður mun snrtylegri þannig því þá sést afar vel hvar t.d. if eða for lúppa endar. Svoa var farið í að nota mysql databasinn s.s. búa til töflur í grunninn og birta gögnin á vefsíðunni.
+
 Nú vitum við að t.d. þá notar Laravel Blade vélina til að compila kóðann og þessvegna getum við t.d. notað @  staðinn fyrir <?php og endif og endforeach. Svo var sýnt hvernig hægt er að loda mismunandi viewum í Laravel frameworkinu en það gerist með routing sem er breytt routes->web.php. Aðeins var kynnt sér pínulítið brot á Laravel frameworkinu þar sem þetta er nokkuð stórt framework.
