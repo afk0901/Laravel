@@ -15,7 +15,7 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 2. Farðu í möppuna sem þú settir Laravel upp í og svo í routes möppuna. Síðan skalltu skipta út web.conf fyrir web.conf sem er á github með því að eyða henni og setja nýju skránna í staðinn.
 
-3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
+3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.(Gætir notað Filezilla kannski þæginlegra)
 
 4. Endurræstu vefþjónin eða reloadaðu stillingunum.
 
