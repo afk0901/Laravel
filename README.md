@@ -9,6 +9,16 @@ Ef farið er rétt eftir þessum leiðbeiningum ættir þú að geta notað fram
 
 Laravel var sett upp á Linux vél (Ubuntu) eftir þessum leiðbeiningum hér: https://www.howtoforge.com/tutorial/install-laravel-on-ubuntu-for-apache/
 
+Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf að skipta nokkrum skrám út.
+
+1. Taktu afrit (backup) ef eitthvað skildi klúðrast, t.d. með cp skipuninni á Linux vél.
+
+2. Farðu í möppuna sem þú settir Laravel upp í og svo í routes möppuna. Síðan skalltu skipta út web.conf fyrir web.conf sem er á github með því að eyða henni og setja nýju skránna í staðinn.
+
+3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
+
+4. Endurræstu vefþjónin eða reloadaðu stillingunum.
+
 ATH! - Þar sem .env skŕánni í Laravel var breytt þá er notandanafnið root og lykilorðið LUNDIOGFANTA fyrir gagnagrunninn. ATH. að það gæti verið vandamál að fá aðgang að honum í gegnum console s.s. Linux þar sem sá sem þetta skrifar lenti í því, en ef farið er á síða/phpmyadmin þá ættir þú að komast inn þar.
 
 Á síðunni okkar er undirsíða sem heitir tasks farðu á síðan/tasks. Þarna er náð í ,,to do list" í gagnagrunn sem heitir reyndar blog og allt heila klabbið þ.e.s titilinn. Núna getur þú líka sett fyrir aftan tasks/ eitthvað id t.d 1 eða 2 og þá færðu hvað er á  bakvið þennan titil, bulltexta og t.d. Finish my screencast...
