@@ -17,9 +17,13 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
 
-4. Gættu þess að allar möppur þar með talið tasks mappan  view möppunni séu með read réttindi eða þá 777 réttindi.
-5. Endurræstu vefþjónin eða reloadaðu stillingunum.
+4. Importaðu gagnagrunninum blog.sql sem hér á Github, á síða/phpmyadmin lykilorð 12345678
 
+5. Gættu þess að allar möppur þar með talið tasks mappan  view möppunni séu með read réttindi eða þá 777 réttindi.
+
+6. Endurræstu vefþjónin eða reloadaðu apache stillingunum.
+
+ATH! Breyta þarf .env skránni. Lykilorðið er 12345678 ekki secret.
 
 Á síðunni okkar er undirsíða sem heitir tasks farðu á síðan/tasks. Þarna er náð í ,,to do list" í gagnagrunn sem heitir reyndar blog og allt heila klabbið þ.e.s titilinn. Núna getur þú líka sett fyrir aftan tasks/ eitthvað id t.d 1 eða 2 og þá færðu hvað er á  bakvið þennan titil, bulltexta og t.d. Finish my screencast...
 
