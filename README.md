@@ -17,9 +17,7 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
 
-4. Taktu tasks möppuna úr view möppunni og settu hana inn  view möppuna.
-
-4. Endurræstu vefþjónin eða reloadaðu stillingunum.
+5. Endurræstu vefþjónin eða reloadaðu stillingunum.
 
 ATH! - Þar sem .env skŕánni í Laravel var breytt þá er notandanafnið root og lykilorðið LUNDIOGFANTA fyrir gagnagrunninn. ATH. að það gæti verið vandamál að fá aðgang að honum í gegnum console s.s. Linux þar sem sá sem þetta skrifar lenti í því, en ef farið er á síða/phpmyadmin þá ættir þú að komast inn þar.
 
