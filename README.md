@@ -17,11 +17,13 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
 
-4. Importaðu gagnagrunninum blog.sql sem hér á Github, á síða/phpmyadmin lykilorð 12345678
+4. Búðu til gagnagrunn sem heitir blog
 
-5. Gættu þess að allar möppur þar með talið tasks mappan  view möppunni séu með read réttindi eða þá 777 réttindi.
+5. Importaðu gagnagrunninum blog.sql sem hér á Github, á síða/phpmyadmin lykilorð 12345678
 
-6. Endurræstu vefþjónin eða reloadaðu apache stillingunum.
+6. Gættu þess að allar möppur þar með talið tasks mappan  view möppunni séu með read réttindi eða þá 777 réttindi.
+
+7. Endurræstu vefþjónin eða reloadaðu apache stillingunum.
 
 ATH! Breyta þarf .env skránni. Lykilorðið er 12345678 ekki secret.
 
