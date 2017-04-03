@@ -19,7 +19,6 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 5. Endurræstu vefþjónin eða reloadaðu stillingunum.
 
-ATH! - Þar sem .env skŕánni í Laravel var breytt þá er notandanafnið root og lykilorðið LUNDIOGFANTA fyrir gagnagrunninn. ATH. að það gæti verið vandamál að fá aðgang að honum í gegnum console s.s. Linux þar sem sá sem þetta skrifar lenti í því, en ef farið er á síða/phpmyadmin þá ættir þú að komast inn þar.
 
 Á síðunni okkar er undirsíða sem heitir tasks farðu á síðan/tasks. Þarna er náð í ,,to do list" í gagnagrunn sem heitir reyndar blog og allt heila klabbið þ.e.s titilinn. Núna getur þú líka sett fyrir aftan tasks/ eitthvað id t.d 1 eða 2 og þá færðu hvað er á  bakvið þennan titil, bulltexta og t.d. Finish my screencast...
 
