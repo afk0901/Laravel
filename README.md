@@ -17,6 +17,7 @@ Síðan, af því að github leyfir ekki nema max 100 skrár í einu þá þarf 
 
 3. Taktu View möppuna. Eyddu henni og settu View möppuna af Github  staðinn.
 
+4. Gættu þess að allar möppur þar með talið tasks mappan  view möppunni séu með read réttindi eða þá 777 réttindi.
 5. Endurræstu vefþjónin eða reloadaðu stillingunum.
 
 
